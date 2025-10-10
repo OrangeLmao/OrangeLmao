@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a CSE student at Case Western Reserve!<br><br>- 🔭 I’m working as an SWE Intern @ MntrMe <br>- 📚 I'm currently learning more about NLP and AI Agents<br>- ⚡ In my free time I play badminton and boulder!<br>- 📫 How to reach me: pranav.saran@case.edu</p>
+<p align="left">I'm a CSE student at Case Western Reserve!<br><br>- 🔭 I’m geting cooked by midterms! <br>- 📚 I'm currently learning more about NLP and AI Agents<br>- ⚡ In my free time I play badminton and boulder!<br>- 📫 How to reach me: pranav.saran@case.edu</p>
 
 ###
 
